@@ -1,0 +1,5 @@
+how to run the tool 
+open CMD 
+choose the path where network_sniffer.py saved 
+and then type: python network_sniffer.py press enter 
+and the tool starts sniffing the network packets 
